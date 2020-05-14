@@ -1,0 +1,32 @@
+.header{
+    height: 150px;
+    background-color: #DC7733;
+    padding: 30px;
+    margin: 15px 15px 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-image: linear-gradient(to bottom right, #DC7733, #B77A4B);
+}
+.covid_text{
+    font-family: Candara;
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.covid_text span{
+    padding-right: 50px;
+}
+
+.dashb{
+    height: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 15px;
+    padding: 30px;
+}
+
+.footer{
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
